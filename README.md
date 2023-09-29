@@ -1,28 +1,39 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'm+Usman+Ser;Multi+Device+Whatsapp+Bot;Coded+By+Usman+Ser" alt="Typing SVG" /></a>
-
- 
- <p align="center">
-<a href="https://github.com/DarkWinzo/Queen-MD"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Queen&description=Hello,%20I%20am%20Queen%20MD.%20I%20am%20First%20Multi-device%20Whatsapp%20%Sinhala20Bot,%20You%20Can%20Deploy%20Me%20%20%20enjoy%20Futures&image=https://i.ibb.co/5hYmkkK/Menu.png&backgroundColor=%23ecf0f1&instagram=@darkWinzo&github=DarkWinzo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/DarkWinzo"/></a>
+<p align="center">  
+  <a href="https://i.imgur.com/HQYwqqf.jpeg">
+    <img alt="secktor docs" height="300" src="https://i.imgur.com/kdBJrtU.jpeg">
+    <h1 align="center"> U̶S̶M̶A̶N̶-̶S̶E̶R̶ </h1>
+  </a>
+</p>  
+<p align="center">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Fc21e9NGjeU64dLYhqR2Tv" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/Fc21e9NGjeU64dLYhqR2Tv](https://wa.me/6282116863163?text=.menu)" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
 </p>
- 
- 
- 
- <p align="center">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+
+---
+
+<p align="center"><img src="https://profile-counter.glitch.me/{mrusman1316}/count.svg" alt="mrusman1316:: Visitor's Count" /></p>
+
+<p align="center">
+   <a href="https://github.com/mrusman1316"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=USMAN+SER+OFFICIAL;Creator+USMAN-SER;There+is+Ease+With+Difficulty;Follow+My+Github" alt="UwU">
 </p>
 
+---
 
- ![forks](https://img.shields.io/github/forks/DarkWinzo/Queen-MD?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/DarkWinzo/Queen-MD?style=social)
+[![License: GPL-3](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
-![size](https://img.shields.io/github/repo-size/DarkWinzo/Queen-MD?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/DarkWinzo/Queen-MD?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Dark%20Winzo&color=purple&style=plastic)
- 
- <p align="center"><img src="https://profile-counter.glitch.me/{DarkWinzo}/count.svg" alt="DarkWinzo :: Visitor's Count" /></p>
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrusman1316%2FUsman-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
- 
+![forks](https://img.shields.io/github/forks/mrusman1316/Usman-MD?label=Forks&style=social)
+
+![stars](https://img.shields.io/github/stars/mrusman1316/Dragon-MD-V4?style=social)
+
  
 ---
 # Deployment Methods
